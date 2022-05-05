@@ -1,0 +1,3 @@
+WorldClim bioclimatic variables and a countries map were downloaded using the 'geodata' R package. "Future" variables correspond to the "CNRM-CM6-1" climate model, SSP "585" and time period "2061-2080". All variables were masked with mainland Spain using the 'terra' R package.
+
+These data are strictly meant for use as examples during this course. If you want to use similar data in your work, you need to download them and obtain their DOI and/or other proper citation info!

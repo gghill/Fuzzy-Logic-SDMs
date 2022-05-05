@@ -1,0 +1,3 @@
+Species occurrence data were downloaded from GBIF with the 'rgbif' R package, filtering with institutionCode="magrama". Records overlapping mainland Spain were selected with the 'terra' R package, using a countries map downloaded with the 'geodata' R package.
+
+These data are strictly meant for use as examples during this course. If you want to use similar data in your work, download them and obtain their DOI and/or other proper citation info!
